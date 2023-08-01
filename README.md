@@ -12,7 +12,7 @@ Features:
 ## Easy to use
 
 How to Install:
-* Download Mod from releases page
+* Download Mod from releases page https://github.com/Vyrrex/Wynnrunner/tree/Release
 * Download https://www.curseforge.com/minecraft/mc-mods/mysql-jdbc Mod (Not a real Mod, just a library; Not created / maintained by me!)
 * Put both Mods in your mod-Folder
 
