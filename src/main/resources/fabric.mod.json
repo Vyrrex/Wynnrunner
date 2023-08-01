@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "wynnrunner",
+  "version": "${version}",
+  "name": "wynnrunner",
+  "description": "",
+  "authors": [],
+  "contact": {
+    "repo": "https://github.com/loren/untitled"
+  },
+  "license": "MIT License",
+  "icon": "assets/wynnrunner/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "com.wynnrunner.client.Client"
+    ],
+    "main": [
+      "com.wynnrunner.client.Main"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "fabric": "*",
+    "minecraft": "1.19.4"
+  },
+  "mixins": [
+    "com.wynnrunner.mixins.json"
+  ]
+}
