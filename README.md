@@ -2,8 +2,10 @@
 ## A Fabric-Mod created to make Lootrunning on play.wynncraft.com easier
 
 Features:
-* Shows current Beacon-Count and Max Beacon-Count of one Color
+![BeaconHUD](https://github.com/Vyrrex/Wynnrunner/assets/67466853/c4bc8d1c-4d0f-4d2d-b6de-ef76a79fc68c)
 * Predicts Challenges of Beacons
+![Beaconcap](https://github.com/Vyrrex/Wynnrunner/assets/67466853/6c560223-9f1f-45d6-9170-a9db014e0744)
+* Shows current Beacon-Count and Max Beacon-Count of one Color
 
 ## Easy to use
 
@@ -18,6 +20,7 @@ How to use:
 * They will also automatically update once new beacons appear
 * To get more accuracy just let the predictions update by Standing still
 
+![BeaconsCommand](https://github.com/Vyrrex/Wynnrunner/assets/67466853/86a5052b-ef65-4b82-87a2-bf3dbc56987a)
 * use the /beacons command to show predicted challenge-locations in chat so you can put your Compass
 
 # Currently only works in Lutho as I didn't have the time to register all Challenges in Corkus
