@@ -27,3 +27,4 @@ How to use:
 
 # Currently only works in Lutho as I didn't have the time to register all Challenges in Corkus
 ## Sorry for this shitty description but it's currently 1:20 a.m. and I got a lot of stuff to do tomorrow
+## Rainbow beacons are currently displayed as Unknown, as I haven't gotten their ID yet
