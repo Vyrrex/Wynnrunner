@@ -2,8 +2,10 @@
 ## A Fabric-Mod created to make Lootrunning on play.wynncraft.com easier
 
 Features:
+
 ![BeaconHUD](https://github.com/Vyrrex/Wynnrunner/assets/67466853/c4bc8d1c-4d0f-4d2d-b6de-ef76a79fc68c)
 * Predicts Challenges of Beacons
+
 ![Beaconcap](https://github.com/Vyrrex/Wynnrunner/assets/67466853/6c560223-9f1f-45d6-9170-a9db014e0744)
 * Shows current Beacon-Count and Max Beacon-Count of one Color
 
