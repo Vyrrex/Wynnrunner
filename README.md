@@ -29,4 +29,4 @@ How to use:
 ## Sorry for this shitty description but it's currently 1:20 a.m. and I got a lot of stuff to do tomorrow
 ## Rainbow beacons are currently displayed as Unknown, as I haven't gotten their ID yet
 
-##feel free to message me on Discord (@mc.wald) with bugreports, crashes and feature-wishes
+## feel free to message me on Discord (@mc.wald) with bugreports, crashes and feature-wishes
