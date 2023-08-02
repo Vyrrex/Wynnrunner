@@ -25,6 +25,6 @@ How to use:
 ![BeaconsCommand](https://github.com/Vyrrex/Wynnrunner/assets/67466853/86a5052b-ef65-4b82-87a2-bf3dbc56987a)
 * use the /beacons command to show predicted challenge-locations in chat so you can put your Compass
 
-# Corkus now 70% supported!
+# Corkus now 99.9% supported!
 ## Sorry for this shitty description but it's currently 1:20 a.m. and I got a lot of stuff to do tomorrow
 ## Rainbow beacons are currently displayed as Unknown, as I haven't gotten their ID yet
